@@ -1,5 +1,5 @@
 # snmp_exporter
-## snmp.yml for several devices
+## snmp.yml module for several devices
 
 1. paloalto
 2. Fortinet
