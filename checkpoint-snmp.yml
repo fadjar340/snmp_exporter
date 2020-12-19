@@ -741,6 +741,14 @@ checkpoint:
       labelname: powerSupplyStatus
       oid: 1.3.6.1.4.1.2620.1.6.7.9.1.1.1
       type: DisplayString
+   - name: fwNumConn
+    oid: 1.3.6.1.4.1.2620.1.1.25.3
+    type: gauge
+    help: The value of Firewall Number of connection
+  - name: fwPeakNumCOnn
+    oid: 1.3.6.1.4.1.2620.1.1.25.4
+    type: gauge
+    help: The value of firwall Peak Number of connection
   version: 3
   auth:
     security_level: authPriv
