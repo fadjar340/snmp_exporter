@@ -752,8 +752,8 @@ checkpoint:
   version: 3
   auth:
     security_level: authPriv
-    username: elang-botak
+    username: 
     password: si4p_meNja94
     auth_protocol: SHA
     priv_protocol: AES
-    priv_password: si4p_meNja94
+    priv_password: 
